@@ -8,10 +8,11 @@ int main(){
 
 	while(x<5){
 		cout<<"Hello"<<endl;
-		x+=1;
+		x++;
 	}
 
 	cout<<"Ending the program"<<endl;
 	cin.get();
+
 	return 0;
 }
