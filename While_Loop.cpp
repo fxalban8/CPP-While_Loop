@@ -8,7 +8,7 @@ int main(){
 
 	while(x<5){
 		cout<<"Hello"<<endl;
-		x=x+1;
+		x+=1;
 	}
 
 	cout<<"Ending the program"<<endl;
